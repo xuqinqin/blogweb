@@ -1,0 +1,12 @@
+图标字体下载：
+https://icomoon.io/app/#/select
+解压后复制fonts 和style.css到你的css文件夹
+将style.css中的内容全部复制到你写的css中
+保留fonts文件夹，其他的全部删除即可。
+
+
+
+将该项目添加到blog思路：
+1.修改css文件在这个项目里头修改scss文件即可，注意koala要打开
+2.修改好后，如何想要样式复制到blog项目里头，不用复制scss等其他css文件里面的文件，只用复制css文件和fonts图标字体文件即可；
+
